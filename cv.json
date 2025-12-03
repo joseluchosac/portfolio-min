@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "name": "José Velásquez",
+    "label": "Desarrollador de aplicaciones web y ofimática",
+    "image": "",
+    "email": "josvelsac@gmail.com",
+    "phone": "(51) 936-455-748",
+    "url": "https://www.josvelsac.com",
+    "summary": "Tengo 20 años de experiencia en ofimática y desarrollo de aplicaciones en MS Access, y 5 años den desarrollo web, he desarrollado muchos proyectos de Office y desarrollando proyectos en Web.",
+    "location": {
+      "address": "San Martin de Porras",
+      "postalCode": "Lima 31",
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "joseluchosac",
+        "url": "https://github.com/joseluchosac"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "josvelsac",
+        "url": "https://www.linkedin.com/in/josvelsac"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Policlínico Reyna de la Paz",
+      "position": "Cómputo",
+      "url": "https://company.com",
+      "startDate": "1997-04-01",
+      "endDate": "2014-05-01",
+      "summary": "Programador de aplicaciones de escritorio, instalacion configuracion y mantenimiento de equipos de cómputo",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Imprenta San Marcos",
+      "position": "Cómputo",
+      "url": "https://company.com",
+      "startDate": "2014-08-12",
+      "endDate": "2015-01-01",
+      "summary": "Instalacion, revisión y mantenimiento de software de equipos de cómputo",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Java Script",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "React JS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Node JS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Ofimática",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Redes",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web",
+        "Frontend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Generador de reportes médicos",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Aplicaciónes de escritorio desarrollado en MS Access para almacenar resultados examenes de imagenes como Ecografia, Rx, Laboratorio",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "www.josvelsac.com"
+    },{
+      "name": "Registro y control de asistencia de alumnos - instituto",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Aplicaciónes de escritorio desarrollado en MS Access para registro, y asistencia de alumnos de un instituto",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": ""
+    }
+  ]
+}
